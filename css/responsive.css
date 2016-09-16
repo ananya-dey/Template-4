@@ -1,0 +1,25 @@
+@media screen and (max-width: 640px){
+	.slider-item{
+	 padding: 300px 0;
+	 color: #fff;
+  }
+	.services-content{
+		max-width: 292px;
+		margin: 0 auto;
+		padding: 20px 0;
+	}
+	.portfolio-content{
+		max-width: 292px;
+		margin: 0 auto;
+	}
+	.portfolio-image{
+		margin: 20px 0;
+	}
+	.team-content{
+		max-width: 292px;
+		margin: 0 auto;
+	}
+	.founder-image{
+		margin: 30px 0;
+	}
+}
