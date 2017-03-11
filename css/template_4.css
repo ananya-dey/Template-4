@@ -196,6 +196,7 @@ body{
 /*quote*/
 #get_quote-main{
 	background: #c0c0c0;
+	color: #fff;
 }
 .quote-icon i{
 	font-size: 100px;
